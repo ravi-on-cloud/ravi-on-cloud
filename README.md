@@ -13,6 +13,16 @@
 
 ---
 
+<h2 align="left">📜 Certifications</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PMP-Certified-blue?style=for-the-badge&logo=projectmanagement&logoColor=white" alt="PMP" />
+  <img src="https://img.shields.io/badge/PSM%20I-Scrum.org-blueviolet?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="PSM I" />
+  <img src="https://img.shields.io/badge/SAFe%20RTE-Scaled%20Agile-28a745?style=for-the-badge&logo=scaledagile&logoColor=white" alt="SAFe RTE" />
+</p>
+
+---
+
 <h2 align="left">🛠️ I Work With</h2>
 
 <p align="left">
@@ -56,10 +66,10 @@
 <h2 align="left">📫 Connect with Me</h2>
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/ravipatelpmp/)" target="_blank">
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:ravipatel.pr6@gmail.com">
+  <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
