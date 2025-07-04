@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Ravi and I'm a Cloud Engineer from Hamilton 🇨🇦</p>
+<p align="left">My name is Ravi and I'm a Cloud Engineer from Hamilton!</p>
 
 ---
 
@@ -66,10 +66,10 @@
 <h2 align="left">📫 Connect with Me</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="[https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/ravipatelpmp/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:ravipatel.pr6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
