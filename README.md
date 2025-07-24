@@ -29,9 +29,6 @@
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="height:40px;" alt="Azure"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" style="height:40px;" alt="AWS"/>
-  </a>
   <a href="https://developer.hashicorp.com/terraform" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="height:40px;" alt="Terraform"/>
   </a>
