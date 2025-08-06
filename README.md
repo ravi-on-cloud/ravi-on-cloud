@@ -9,7 +9,7 @@
 ✨ Creating bugs since 2020  
 📚 Currently learning **Automation** and **Securing Cloud-Based Infrastructures**  
 🎯 **Goals**: Become a top-tier Cloud Engineer and contribute to impactful DevOps & IaC projects  
-🎲 **Fun fact**: I can explain cloud concepts using food analogies 🍔☁️
+🎲 **Fun fact**: you can explain cloud concepts using food analogies 🍔☁️
 
 ---
 
