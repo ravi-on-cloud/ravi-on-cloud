@@ -66,8 +66,7 @@
 
 </p>
 
----
-
+--------
 <h2 align="left">📫 Connect with Me</h2>
 
 <p align="left">
@@ -78,3 +77,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+---
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RAVI-ON-CLOUD.RAVI-ON-CLOUD&left_text=Eyes"  />
+</div>
